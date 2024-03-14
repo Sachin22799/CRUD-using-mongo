@@ -1,0 +1,10 @@
+spring:
+  data:
+    mongodb:
+      database: admin               #databasename
+      port: 27017
+      host: lcalhost
+#server:
+  #port: 8097
+      
+
